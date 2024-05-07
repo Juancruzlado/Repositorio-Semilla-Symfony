@@ -11,3 +11,8 @@
 ------------------------------------------------------------------------------------
 4. Dejar sentado un PHPUnit configurado y funcional con un test mock. <https://docs.phpunit.de/en/10.5/installation.html>
 
+## TO-DO list: 
+- Add Xdebug integration with some instructions on README file []
+- Create a different Branch for Symfony Env []
+- Notes about configuring on Windows vs Linux (Ubuntu/Parrot?) []
+  
